@@ -1,5 +1,5 @@
 ![Profile counter](https://komarev.com/ghpvc/?username=tomoron)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftomoshi_web)
+![Twitter URL](https://img.shields.io/twitter/style=social&url=https%3A%2F%2Ftwitter.com%2Ftomoshi_web)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tomoron/coffee-oma)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/tomoronn3/posts.svg)](http://qiita.com/tomoronn3)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/tomoronn3/contributions.svg)](http://qiita.com/tomoronn3)
