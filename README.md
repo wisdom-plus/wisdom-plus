@@ -9,6 +9,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/tomoronn3/followers.svg)](http://qiita.com/tomoronn3)
 
 ![tomoron's github stats](https://github-readme-stats.vercel.app/api?username=tomoron&count_private=true&show_icons=true&theme=monokai)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomoron&theme=monokai&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoron&theme=monokai)
 
