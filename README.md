@@ -24,5 +24,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomoron)](https://github.com/tomoron/github-profile-trophy)
 
+<a href="https://app.daily.dev/tomoron"><img src="https://api.daily.dev/devcards/f4f2a9c6bb2f4b528aa0583914f48a45.png?r=31s" width="400" alt="Tomoshi Nakai's Dev Card"/></a>
+
 <!--
 **tomoron/tomoron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
