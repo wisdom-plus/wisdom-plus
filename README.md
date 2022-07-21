@@ -10,8 +10,9 @@
 
 ![tomoron's github stats](https://github-readme-stats.vercel.app/api?username=tomoron&count_private=true&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoron&theme=monokai)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomoron&theme=monokai&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+<a href="https://app.daily.dev/tomoron"><img src="https://api.daily.dev/devcards/f4f2a9c6bb2f4b528aa0583914f48a45.png?r=31s" width="400" alt="Tomoshi Nakai's Dev Card"/></a>
 
 [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -23,8 +24,6 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomoron)](https://github.com/tomoron/github-profile-trophy)
-
-<a href="https://app.daily.dev/tomoron"><img src="https://api.daily.dev/devcards/f4f2a9c6bb2f4b528aa0583914f48a45.png?r=31s" width="400" alt="Tomoshi Nakai's Dev Card"/></a>
 
 <!--
 **tomoron/tomoron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
