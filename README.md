@@ -11,8 +11,8 @@
 ![tomoron's github stats](https://github-readme-stats.vercel.app/api?username=tomoron&count_private=true&show_icons=true&theme=monokai)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomoron&theme=monokai&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoron&theme=monokai)
 <a href="https://app.daily.dev/tomoron"><img src="https://api.daily.dev/devcards/f4f2a9c6bb2f4b528aa0583914f48a45.png?r=31s" width="275" alt="Tomoshi Nakai's Dev Card"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoron&theme=monokai)
 
 
 [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
