@@ -27,15 +27,19 @@ jobs:
 
     - name: install
       run: yarn install --frozen-lockfile
+      working-directory: ./portfolio
 
     - name: build
       run: yarn build
+      working-directory: ./portfolio
 
     - name: export
       run: yarn export
+      working-directory: ./portfolio
 
     - name: add nojekyll
-      run: touch ./out/.nojekyll
+      run: touch ../out/.nojekyll
+      working-directory: ./portfolio
 
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
