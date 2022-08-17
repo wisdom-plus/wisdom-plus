@@ -1,4 +1,5 @@
 # Hey! I'm Tomoshi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Tomoshi;Thank+you+for+your+visit)](https://git.io/typing-svg)
 
 ![Profile counter](https://komarev.com/ghpvc/?username=tomoron)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftomoshi_web)
