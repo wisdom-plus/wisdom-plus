@@ -19,6 +19,7 @@
 [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoron/tomoron/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,ruby,html,css,rails,react,jquery,tailwind,git,bash,webpack,bootstrap,nodejs,nginx,discord,twitter,instagram,docker,aws,figma,github,heroku,vercel,vscode,linux,md,mysql,postgres,redis,sqlite)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomoron)](https://github.com/tomoron/github-profile-trophy)
