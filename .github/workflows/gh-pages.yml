@@ -37,10 +37,6 @@ jobs:
       run: yarn export
       working-directory: ./portfolio
 
-    - name: add nojekyll
-      run: touch ./out/.nojekyll
-      working-directory: ./portfolio
-
     - name: deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
