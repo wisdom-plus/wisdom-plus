@@ -38,7 +38,7 @@ jobs:
       working-directory: ./portfolio
 
     - name: add nojekyll
-      run: touch out/.nojekyll
+      run: touch ./out/.nojekyll
       working-directory: ./portfolio
 
     - name: deploy
