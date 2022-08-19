@@ -1,7 +1,10 @@
 {
   "name": "portfolio",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Tomoshi's portfolio",
   "private": true,
+  "author": "Tomoshi Nakai",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
