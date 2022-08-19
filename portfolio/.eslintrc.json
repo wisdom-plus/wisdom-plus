@@ -5,6 +5,10 @@
     "plugin:import/warnings",
     "prettier"
   ],
+  "plugins": [
+    "import",
+    "prettier"
+  ],
   "rules": {
     "import/order": [
       "error",
@@ -14,5 +18,10 @@
         }
       }
     ]
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript":{}
+    }
   }
 }
