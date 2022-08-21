@@ -1,7 +1,6 @@
 import type { NextPage } from 'next'
 import MainHead from '@/components/layouts/head'
 import IconLink from '@/pages/iconlink'
-import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
