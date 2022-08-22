@@ -12,7 +12,7 @@
     "lint": "next lint --dir src",
     "lint:fix": "next lint --fix",
     "format": "prettier --write --ignore-path .gitignore './**/*.{js,jsx,ts,tsx}'",
-    "export": "next export"
+    "export": "next export && next-export-optimize-images"
   },
   "dependencies": {
     "framer-motion": "^7.2.0",
@@ -30,6 +30,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-import-resolver-typescript": "^3.4.2",
     "eslint-plugin-import": "^2.26.0",
+    "next-export-optimize-images": "^1.6.0",
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
     "tailwindcss": "^3.1.8",
