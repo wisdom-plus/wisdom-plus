@@ -1,4 +1,6 @@
 import Head from 'next/head'
+import Image from 'next/image'
+import ProfileImage from 'public/profile-image.jpeg'
 
 type Props = {
   children?: JSX.Element
@@ -17,9 +19,11 @@ const MainHead = ({ children }: Props) => {
         {children}
       </main>
       <div className='w-full lg:w-2/5'>
-        <img
-          src='/profile-image.jpeg'
-          className='rounded-none lg:rounded-lg shadow-2xl hidden lg:block'
+        <Image
+          className='rounded-none lg:rounded-lg shadow-2xl lg:block hidden'
+          src={ProfileImage}
+          objectFit='cover'
+          priority
         />
       </div>
     </div>
