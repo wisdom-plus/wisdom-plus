@@ -6,8 +6,7 @@
     "prettier"
   ],
   "plugins": [
-    "import",
-    "prettier"
+    "import"
   ],
   "rules": {
     "import/order": [

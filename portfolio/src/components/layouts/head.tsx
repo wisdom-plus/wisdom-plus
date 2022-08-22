@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import ProfileImage from 'public/profile-image.jpeg'
+import ProfileImage from '../../../public/profile-image.jpeg'
 
 type Props = {
   children?: JSX.Element
@@ -10,7 +10,7 @@ const MainHead = ({ children }: Props) => {
   return (
     <div className='max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto my-32 lg:my-0 relative z-10'>
       <Head>
-        <title>Tomoshi's portfolio</title>
+        <title>Tomoshi&apos;s portfolio</title>
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
         <meta name='description' content='Tomoshi%aposs portfolio Homepage' />
         <link rel='icon' href='/favicon.ico' />
@@ -24,6 +24,7 @@ const MainHead = ({ children }: Props) => {
           src={ProfileImage}
           objectFit='cover'
           priority
+          alt='profile image'
         />
       </div>
     </div>

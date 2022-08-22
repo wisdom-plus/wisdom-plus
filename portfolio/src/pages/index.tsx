@@ -1,8 +1,8 @@
 import type { NextPage } from 'next'
-import MainHead from '@/components/layouts/head'
-import IconLink from '@/pages/iconlink'
 import Image from 'next/image'
-import ProfileImage from 'public/profile-image.jpeg'
+import ProfileImage from '../../public/profile-image.jpeg'
+import MainHead from '../components/layouts/head'
+import IconLink from './iconlink'
 
 const Home: NextPage = () => {
   return (
@@ -15,6 +15,7 @@ const Home: NextPage = () => {
             layout='fill'
             objectFit='cover'
             priority
+            alt='profile image'
           />
         </div>
         <h1 className='text-3xl font-bold pt-8 lg:pt-0'>Tomoshi Nakai</h1>
