@@ -2,16 +2,13 @@ import type { NextPage } from 'next'
 import MainHead from '@/components/layouts/head'
 import IconLink from '@/pages/iconlink'
 import Image from 'next/image'
-import ProfileImage from '././../../public/profile-image.jpeg'
+import ProfileImage from 'public/profile-image.jpeg'
 
 const Home: NextPage = () => {
   return (
     <MainHead>
       <div className='p-4 md:p-12 text-center lg:text-left'>
-        <div
-          className='block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48'
-          style={{ position: 'relative' }}
-        >
+        <div className='block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 relative'>
           <Image
             className='rounded-full'
             src={ProfileImage}
