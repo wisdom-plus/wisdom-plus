@@ -1,12 +1,25 @@
 import type { NextPage } from 'next'
 import MainHead from '@/components/layouts/head'
 import IconLink from '@/pages/iconlink'
+import Image from 'next/image'
+import ProfileImage from '././../../public/profile-image.jpeg'
 
 const Home: NextPage = () => {
   return (
     <MainHead>
       <div className='p-4 md:p-12 text-center lg:text-left'>
-        <div className='block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-conver bg-center profile-image' />
+        <div
+          className='block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48'
+          style={{ position: 'relative' }}
+        >
+          <Image
+            className='rounded-full'
+            src={ProfileImage}
+            layout='fill'
+            objectFit='cover'
+            priority
+          />
+        </div>
         <h1 className='text-3xl font-bold pt-8 lg:pt-0'>Tomoshi Nakai</h1>
         <div className='mx-auto lg-mx-0 w-4/5 pt-3 border-b-2 border-green-500 opacity-25' />
         <p className='pt-3 text-base font-bold flex items-center justify-center lg:justify-start'>

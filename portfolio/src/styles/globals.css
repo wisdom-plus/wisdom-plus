@@ -12,8 +12,5 @@ body {
 }
 
 .profile-image {
-  background-image: url('/profile-image.jpeg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+
 }
