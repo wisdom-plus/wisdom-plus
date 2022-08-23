@@ -2,12 +2,12 @@
 
 const isProd = process.env.NODE_ENV === 'production'
 const prefixPath = isProd ? '/tomoron' : ''
+
 const withExportImages = require('next-export-optimize-images')
 
-const nextConfig = withExportImages({
+module.exports = withExportImages({
   assetPrefix: prefixPath,
   reactStrictMode: true,
   swcMinify: true,
+  basePath: '',
 })
-
-module.exports = nextConfig

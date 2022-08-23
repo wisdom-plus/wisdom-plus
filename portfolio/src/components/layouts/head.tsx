@@ -1,5 +1,5 @@
+import Image from 'next-export-optimize-images/dist/image'
 import Head from 'next/head'
-import Image from 'next/image'
 import ProfileImage from '../../../public/profile-image.jpeg'
 
 type Props = {

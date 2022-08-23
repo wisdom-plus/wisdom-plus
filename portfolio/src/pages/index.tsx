@@ -1,5 +1,5 @@
 import type { NextPage } from 'next'
-import Image from 'next/image'
+import Image from 'next-export-optimize-images/dist/image'
 import ProfileImage from '../../public/profile-image.jpeg'
 import MainHead from '../components/layouts/head'
 import IconLink from './iconlink'

@@ -1,6 +1,6 @@
 import '../styles/globals.css'
+import Image from 'next-export-optimize-images/dist/image'
 import type { AppProps } from 'next/app'
-import Image from 'next/image'
 import BackImage from '../../public/backimage.jpg'
 
 function MyApp({ Component, pageProps }: AppProps) {
