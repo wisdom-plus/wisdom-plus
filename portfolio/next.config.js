@@ -6,7 +6,6 @@ const prefixPath = isProd ? '/tomoron' : ''
 const withExportImages = require('next-export-optimize-images')
 
 module.exports = withExportImages({
-  assetPrefix: prefixPath,
   reactStrictMode: true,
   swcMinify: true,
   basePath: '',
