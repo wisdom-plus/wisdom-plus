@@ -8,7 +8,4 @@ module.exports = {
   reactStrictMode: true,
   swcMinify: true,
   basePath: prefixPath,
-  images: {
-    domains: ['tomoron.github.io/tomoron'],
-  },
 }
