@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import ProfileImage from '../../../public/profile-image.jpeg'
+
+const ProfileImage = 'https://tomoron.github.io/tomoron/profile-image.jpeg'
 
 type Props = {
   children?: JSX.Element
@@ -18,13 +19,13 @@ const MainHead = ({ children }: Props) => {
       <main className='w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 mx-6 lg:mx-0 '>
         {children}
       </main>
-      <div className='w-full lg:w-2/5 hidden lg:block'>
+      <div className='w-full lg:w-2/5 hidden lg:block h-3/5 relative'>
         <Image
           className='rounded-none lg:rounded-lg shadow-2xl'
           src={ProfileImage}
-          objectFit='cover'
           priority
           alt='profile image'
+          layout='fill'
         />
       </div>
     </div>

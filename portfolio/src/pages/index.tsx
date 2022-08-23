@@ -1,8 +1,9 @@
 import type { NextPage } from 'next'
 import Image from 'next/image'
-import ProfileImage from '../../public/profile-image.jpeg'
 import MainHead from '../components/layouts/head'
 import IconLink from './iconlink'
+
+const ProfileImage = 'https://tomoron.github.io/tomoron/profile-image.jpeg'
 
 const Home: NextPage = () => {
   return (
