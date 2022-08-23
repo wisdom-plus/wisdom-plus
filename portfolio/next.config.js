@@ -3,9 +3,7 @@
 const isProd = process.env.NODE_ENV === 'production'
 const prefixPath = isProd ? '/tomoron' : ''
 
-const withExportImages = require('next-export-optimize-images')
-
-module.exports = withExportImages({
+module.exports = {
   assetPrefix: prefixPath,
   reactStrictMode: true,
   swcMinify: true,
@@ -13,4 +11,4 @@ module.exports = withExportImages({
   images: {
     domains: ['tomoron.github.io/tomoron'],
   },
-})
+}
