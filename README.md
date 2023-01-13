@@ -8,7 +8,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/tomoronn3/contributions.svg)](http://qiita.com/tomoronn3)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/tomoronn3/followers.svg)](http://qiita.com/tomoronn3)
 
-![tomoron's github stats](https://github-readme-stats.vercel.app/api?username=tomoron&count_private=true&show_icons=true&theme=monokai)
+![tomoron's github stats](https://github-readme-stats-tomoron.vercel.app/api?username=tomoron&count_private=true&show_icons=true&theme=monokai)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomoron&theme=monokai&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/tomoron"><img src="https://github.com/tomoron/tomoron/blob/master/devcard.svg" width="275" alt="Tomoshi Nakai's Dev Card"/></a>
