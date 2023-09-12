@@ -9,7 +9,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/tomoronn3/followers.svg)](http://qiita.com/tomoronn3)
 
 ![wisdom-plus's github stats](https://github-readme-stats-tomoron.vercel.app/api?username=wisdom-plus&count_private=true&show_icons=true&theme=monokai)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wisdom-plus&theme=monokai&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-drab.vercel.app?user=wisdom-plus&theme=monokai&border_radius=2.5)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/wisdom-plus"><img src="https://github.com/wisdom-plus/wisdom-plus/blob/master/devcard.svg" width="275" alt="Wisdom-plus's Dev Card"/></a>
 ![Top Langs](https://github-readme-stats-tomoron.vercel.app/api/top-langs/?username=wisdom-plus&theme=monokai)
