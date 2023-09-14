@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=800&center=true&vCenter=true&width=634&height=100&lines=Hi!+I'm+Tomoshi;Thank+you+for+your+visit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=800&center=true&vCenter=true&width=634&height=100&lines=Hi!+I'm+Wisdom+;Thank+you+for+your+visit)](https://git.io/typing-svg)
 
 ![Profile counter](https://komarev.com/ghpvc/?username=wisdom-plus)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftomoshi_web)
