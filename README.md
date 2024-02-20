@@ -11,7 +11,7 @@
 ![wisdom-plus's github stats](https://github-readme-stats-tomoron.vercel.app/api?username=wisdom-plus&count_private=true&show_icons=true&theme=monokai)
 [![GitHub Streak](https://github-readme-streak-stats-drab.vercel.app?user=wisdom-plus&theme=monokai&border_radius=2.5)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/wisdom-plus"><img src="https://github.com/wisdom-plus/wisdom-plus/blob/master/devcard.svg" width="275" alt="Wisdom-plus's Dev Card"/></a>
+<a href="https://app.daily.dev/wisdomplus917"><img src="https://api.daily.dev/devcards/v2/Akivy4Y2B3eAtRCQmbZ9n.png?type=wide&r=56r" width="652" alt="wisdom+'s Dev Card"/></a>
 ![Top Langs](https://github-readme-stats-tomoron.vercel.app/api/top-langs/?username=wisdom-plus&theme=monokai)
 
 
